@@ -17,3 +17,8 @@ between the default mode (30-800mm) and the long range mode (30-2000mm).
 From my limited testing, it appears to give accurate results in the range
 40-600mm. Beyond that and the results are less accurate and more prone to being
 interfered with by ambient light.
+
+** update 30 March 2023. Daniel perron
+** Fork from https://github.com/bitbank2/VL53L0X
+** modify the code to use Rasberry Pi pico with the sdk.
+** basically change the I2c  to use hardware instead of device file.
