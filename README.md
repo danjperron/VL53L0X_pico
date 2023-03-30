@@ -18,7 +18,7 @@ From my limited testing, it appears to give accurate results in the range
 40-600mm. Beyond that and the results are less accurate and more prone to being
 interfered with by ambient light.
 
-** update 30 March 2023. Daniel perron
-** Fork from https://github.com/bitbank2/VL53L0X
-** modify the code to use Rasberry Pi pico with the sdk.
-** basically change the I2c  to use hardware instead of device file.
+** update 30 March 2023. Daniel perron<br>
+** Fork from https://github.com/bitbank2/VL53L0X<br>
+** modify the code to use Rasberry Pi pico with the sdk.<br>
+** basically change the I2c  to use hardware instead of device file.<br>
