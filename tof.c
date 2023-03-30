@@ -12,6 +12,8 @@
 // My version is an attempt to simplify that code and 
 // create a generic C library for Linux
 //
+// version modify by Daniel Perron to run on Rasberry Pi pico with the sdk
+// march 30 2023
 
 #ifndef PICO_BOARD
 
