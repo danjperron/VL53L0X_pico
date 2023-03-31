@@ -20,5 +20,5 @@ interfered with by ambient light.
 
 ** update 30 March 2023. Daniel perron<br>
 ** Fork from https://github.com/bitbank2/VL53L0X<br>
-** modify the code to use Rasberry Pi pico with the sdk.<br>
+** modified code to be compatible with the sdk of  Rasberry Pi pico.<br>
 ** basically change the I2c  to use hardware instead of device file.<br>
